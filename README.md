@@ -1,6 +1,6 @@
 # Yolov8_01_Object_Detection
 
-#**Object detection model used YOLOv8**
+# **Object detection model used YOLOv8**
 
 ![YOLOv8 Integrations Banner](https://github.com/ultralytics/assets/raw/main/yolov8/banner-integrations.png)
 
