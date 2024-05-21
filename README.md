@@ -28,4 +28,4 @@ and it will be increased after improving the dataset and the model.
 
 I tried using custom dataset which i prepared from my part time as Hiwi. But as the number of sample available was very low. Therefore, I used this as my test dataset for inference. In order to train the model, i used another custom dataset with 2250 images.
 
-The split is given 1800-225-225
+The train-val-test split is 1800-225-225.
