@@ -1,0 +1,7 @@
+train: /content/drive/MyDrive/Yolo_01/Mechanical Parts/train/images
+val: /content/drive/MyDrive/Yolo_01/Mechanical Parts/valid/images
+test: /content/drive/MyDrive/Yolo_01/Mechanical Parts/test/images
+
+
+nc: 4
+names: ['Bearing', 'Bolt', 'Gear', 'Nut']
